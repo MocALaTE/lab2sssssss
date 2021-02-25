@@ -202,7 +202,6 @@ int main(void)
 			  password[8]=0;
 			  password[9]=0;
 			  password[10]=0;
-			  password[11]=0;
 			  a = 0;
 			  ti = HAL_GetTick();
 		  }
@@ -231,7 +230,6 @@ int main(void)
 							  password[8]=0;
 							  password[9]=0;
 							  password[10]=0;
-							  password[11]=0;
 							  ti = HAL_GetTick();
 						  }
 
